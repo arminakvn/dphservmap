@@ -1,2 +1,2 @@
-DBHLGBTServmap
+DPH service explorer map
 ==============
